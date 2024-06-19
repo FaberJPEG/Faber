@@ -4,10 +4,10 @@
     "hash": "BF855FEAD5B832892620E0D5019826458DB8599D20F7FCB06B95B9B180D6C1E1",
     "size": 10530,
     "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
+      "com.morghttpclient.HttpServerPlugin"
     ],
     "displayName": "Morg HTTP Client 2",
-    "description": "",
+    "description": "Deez nuts",
     "provider": "faber"
   }
 ]
