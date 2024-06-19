@@ -6,7 +6,7 @@
     "plugins": [
       "com.morghttpclient.HttpServerPlugin"
     ],
-    "displayName": "Morg HTTP Client 2",
+    "displayName": "Morg HTTP Client 3",
     "description": "Deez nuts",
     "provider": "faber"
   }
